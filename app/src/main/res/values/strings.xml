@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidTabLayout</string>
+    <string name="tab1">This is tab 1</string>
+    <string name="this_is_tab_3">This is tab 3</string>
+    <string name="this_is_tab_2">This is tab 2</string>
+    <string name="this_is_tab_1">This is tab 1</string>
+
+
+    <string name="tab_one_title">Tab One</string>
+    <string name="tab_two_title">Tab Two</string>
+    <string name="tab_three_title">Tab Three</string>
+
+
+
+</resources>
